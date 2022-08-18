@@ -9,5 +9,6 @@ namespace DreamJob
     internal class Test
     {
         public int TestTesting { get; set; } 
+        public int TestTesting1 { get; set; }
     }
 }
