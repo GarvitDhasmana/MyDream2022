@@ -63,26 +63,29 @@ namespace DreamJob
 
             //Console.ReadLine();
 
-            Console.WriteLine("Enter you Name");
-            string StudentName = Console.ReadLine();
+            //Console.WriteLine("Enter you Name");
+            //string StudentName = Console.ReadLine();
 
-            Console.WriteLine("Enter you maths number");
-            int mathsNumber = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter you maths number");
+            //int mathsNumber = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter you english number");
-            int engNumber = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter you english number");
+            //int engNumber = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter your hindi number");
-            int hindiNumber = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter your hindi number");
+            //int hindiNumber = Convert.ToInt32(Console.ReadLine());
 
-            int studentMarks = mathsNumber + engNumber + hindiNumber;
-            int totalMarks = 300;
-            int percentage = (studentMarks * 100) / totalMarks;
+            //int studentMarks = mathsNumber + engNumber + hindiNumber;
+            //int totalMarks = 300;
+            //int percentage = (studentMarks * 100) / totalMarks;
 
-            Console.WriteLine("Total marks of student " + StudentName  + " is " + studentMarks);
-            Console.WriteLine("Total percentage of student " + " is " +  percentage);
-            
+            //Console.WriteLine("Total marks of student " + StudentName  + " is " + studentMarks);
+            //Console.WriteLine("Total percentage of student " + " is " +  percentage);
 
+
+            //Console.ReadLine();
+
+            Console.WriteLine("Making Changes");
             Console.ReadLine();
 
 
